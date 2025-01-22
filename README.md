@@ -5,9 +5,9 @@ Oi! Eu sou a Kassia Vasconcelos Moura, tenho 31 anos e moro em São Bernardo do 
 
 ## Estatísticas
  <div>
-   <a href="https://github.com/KassiaVasconcelos">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KassiaVasconcelos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KassiaVasconcelos&layout=compact&langs_count=6&theme=radical"/>
+   <a href="https://github.com/kassiavasconcelos">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kassiavasconcelos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassiavasconcelos&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
 ## Linguagens e Tecnologias
